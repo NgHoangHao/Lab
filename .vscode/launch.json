@@ -1,0 +1,441 @@
+{ 
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "StudentManagementSystem",
+            "request": "launch",
+            "mainClass": "StudentManagementSystem",
+            "projectName": "Assigment_328492de"
+        },
+        {
+            "type": "java",
+            "name": "Credit",
+            "request": "launch",
+            "mainClass": "Lab3.Credit",
+            "projectName": "Assigment_328492de"
+        },
+        {
+            "type": "java",
+            "name": "Assembly",
+            "request": "launch",
+            "mainClass": "Lab7.Assembly",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Log2",
+            "request": "launch",
+            "mainClass": "Lab7.Log2",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "NumOfPair",
+            "request": "launch",
+            "mainClass": "Lab7.NumOfPair",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "LogFile",
+            "request": "launch",
+            "mainClass": "Lab7.LogFile",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Stock",
+            "request": "launch",
+            "mainClass": "Lab7.Stock",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "AsemblyLine",
+            "request": "launch",
+            "mainClass": "Lab7.AsemblyLine",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "MinDis",
+            "request": "launch",
+            "mainClass": "Lab7.MinDis",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "MemCard",
+            "request": "launch",
+            "mainClass": "Lab7.MemCard",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Scholarship2",
+            "request": "launch",
+            "mainClass": "Lab7.Scholarship2",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "CountInver",
+            "request": "launch",
+            "mainClass": "Lab6.CountInver",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "CountInversion",
+            "request": "launch",
+            "mainClass": "Lab6.CountInversion",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "Lab6.BinarySearch",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "KSmallestEle",
+            "request": "launch",
+            "mainClass": "Lab6.KSmallestEle",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "KSmallestEle$KSmallestElement",
+            "request": "launch",
+            "mainClass": "Lab6.KSmallestEle$KSmallestElement",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Test2",
+            "request": "launch",
+            "mainClass": "Test2",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Hashmap",
+            "request": "launch",
+            "mainClass": "Hashmap",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "DistinctValue",
+            "request": "launch",
+            "mainClass": "Lab1.DistinctValue",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Dormitory",
+            "request": "launch",
+            "mainClass": "Lab1.Dormitory",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "FirstOcurrence",
+            "request": "launch",
+            "mainClass": "Lab1.FirstOcurrence",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "GreatestNum",
+            "request": "launch",
+            "mainClass": "Lab1.GreatestNum",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Letter",
+            "request": "launch",
+            "mainClass": "Lab1.Letter",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "MostCommonNum",
+            "request": "launch",
+            "mainClass": "Lab1.MostCommonNum",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "PageNum",
+            "request": "launch",
+            "mainClass": "Lab1.PageNum",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Picnic",
+            "request": "launch",
+            "mainClass": "Lab1.Picnic",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "RepeatTime",
+            "request": "launch",
+            "mainClass": "Lab1.RepeatTime",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "BuyGift",
+            "request": "launch",
+            "mainClass": "Lab2.BuyGift",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "DistinctNum",
+            "request": "launch",
+            "mainClass": "Lab2.DistinctNum",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "EIU",
+            "request": "launch",
+            "mainClass": "Lab2.EIU",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "GiftWrap",
+            "request": "launch",
+            "mainClass": "Lab2.GiftWrap",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "WLetter",
+            "request": "launch",
+            "mainClass": "Lab2.WLetter",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "WomenDay",
+            "request": "launch",
+            "mainClass": "Lab2.WomenDay",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Credit",
+            "request": "launch",
+            "mainClass": "Lab3.Credit",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "GPA",
+            "request": "launch",
+            "mainClass": "Lab3.GPA",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Messages",
+            "request": "launch",
+            "mainClass": "Lab3.Messages",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "CountAvg",
+            "request": "launch",
+            "mainClass": "Lab5.CountAvg",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "CountGrade",
+            "request": "launch",
+            "mainClass": "Lab5.CountGrade",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Credit(1)",
+            "request": "launch",
+            "mainClass": "Lab5.Credit",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Exercise",
+            "request": "launch",
+            "mainClass": "Lab5.Exercise",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "GPA(1)",
+            "request": "launch",
+            "mainClass": "Lab5.GPA",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Grade",
+            "request": "launch",
+            "mainClass": "Lab5.Grade",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Graduation",
+            "request": "launch",
+            "mainClass": "Lab5.Graduation",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "HighestGPA",
+            "request": "launch",
+            "mainClass": "Lab5.HighestGPA",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Profit",
+            "request": "launch",
+            "mainClass": "Lab5.Profit",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Ranking",
+            "request": "launch",
+            "mainClass": "Lab5.Ranking",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Scholarship",
+            "request": "launch",
+            "mainClass": "Lab5.Scholarship",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Work",
+            "request": "launch",
+            "mainClass": "Lab5.Work",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "Lab6.BubbleSort",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "Lab6.MergeSort",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Quicksort",
+            "request": "launch",
+            "mainClass": "Lab6.Quicksort",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "Lab6.SelectionSort",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Lab6.Test",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Sort",
+            "request": "launch",
+            "mainClass": "Sort",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "Test(1)",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "CountInversion",
+            "request": "launch",
+            "mainClass": "Training.CountInversion",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "EIU(1)",
+            "request": "launch",
+            "mainClass": "Training.EIU",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "GoTravelling",
+            "request": "launch",
+            "mainClass": "Training.GoTravelling",
+            "projectName": "Assigment_fcc5edbc"
+        },
+        {
+            "type": "java",
+            "name": "KSmallestElement",
+            "request": "launch",
+            "mainClass": "Training.KSmallestElement",
+            "projectName": "Assigment_fcc5edbc"
+        }
+    ]
+}
